@@ -1,0 +1,82 @@
+id,title_name,publishing_date,views,comments,likes,month,year,yearmonth
+0,The Hiring Process from an Interviewer's Perspective | Alex The Analyst Show | Episode 1,2020-09-03 15:38:28+00:00,17919,82,624,9,2020,Sep-20
+1,How I Changed Careers to Become a Data Analyst | Alex The Analyst Show | Episode 2,2020-09-10 13:16:00+00:00,404648,3758,11881,9,2020,Sep-20
+2,Self Taught vs Boot Camp vs Degree | Alex The Analyst Show | Episode 3,2020-09-24 15:29:17+00:00,42019,694,1411,9,2020,Sep-20
+3,Covid and the Data Analyst Job Market | Alex The Analyst Show | Episode 4,2020-10-01 13:53:17+00:00,6968,161,254,10,2020,Oct-20
+4,Imposter Syndrome in Tech | Alex The Analyst Show | Episode 5,2020-10-08 14:26:27+00:00,6789,175,344,10,2020,Oct-20
+5,Working at a Startup vs Fortune 500 Company | Alex The Analyst Show | Episode 6,2020-10-15 15:33:32+00:00,4176,71,172,10,2020,Oct-20
+6,Data Analyst Certifications | Are They Worth It? | Alex The Analyst Show | Episode 7,2020-10-20 14:08:32+00:00,166963,972,5947,10,2020,Oct-20
+7,Asking My Wife Your Questions About Me | Alex The Analyst Show | Episode 8,2020-10-27 16:06:53+00:00,12570,214,530,10,2020,Oct-20
+8,What is Analytics Consulting? With John Ariansen | Alex The Analyst Show | Episode 9,2020-11-05 15:43:17+00:00,10869,108,331,11,2020,Nov-20
+9,What is No Code Analytics? | Alex The Analyst Show | Episode 10,2020-11-12 12:34:08+00:00,3582,75,116,11,2020,Nov-20
+10,Completely Unrealistic Jobs on LinkedIn | Alex The Analyst Show | Episode 11,2020-11-19 15:00:26+00:00,13354,200,526,11,2020,Nov-20
+11,Completely REALISTIC Jobs on LinkedIn | Alex The Analyst Show | Episode 12,2020-11-25 11:00:05+00:00,22194,157,815,11,2020,Nov-20
+12,"Data Analyst Salary (Expectations, Bonuses, 401K, ESPP) | Alex The Analyst Show | Episode 13",2020-12-03 12:00:00+00:00,21339,188,703,12,2020,Dec-20
+13,How to Find Out Your Coworkers Salary | Alex The Analyst Show | Episode 14,2020-12-10 12:00:30+00:00,2411,54,91,12,2020,Dec-20
+14,Entry vs Mid vs Senior Level Data Analyst | Alex The Analyst Show | Episode 15,2020-12-17 12:00:12+00:00,39875,202,1380,12,2020,Dec-20
+15,Data Analyst Resume | Everything You Need to Know | Alex The Analyst Show | Episode 16,2020-12-24 12:00:19+00:00,37289,137,1101,12,2020,Dec-20
+16,Best Industries for Data Analysts in 2021 | Alex The Analyst Show | Episode 17,2021-01-07 12:00:28+00:00,13488,144,449,1,2021,Jan-21
+17,Will Data Analysts Be Automated? | Alex The Analyst | Episode 18,2021-03-18 11:00:08+00:00,15507,123,463,3,2021,Mar-21
+18,My Wife Answers Subscribers Questions About Me | Alex The Analyst Show | Episode 19,2021-06-03 11:30:01+00:00,6088,108,240,6,2021,Jun-21
+19,How I became a Data Analytics Manager | Alex The Analyst Show | Episode 20,2022-01-18 11:30:02+00:00,21737,352,829,1,2022,Jan-22
+20,Pros and Cons of Working Remote | Alex The Analyst Show | Episode 21,2022-03-29 10:30:17+00:00,6600,156,264,3,2022,Mar-22
+21,How I Manage My Time Working 60+ Hours Per Week | Alex The Analyst Show | Episode 22,2022-04-20 10:30:09+00:00,11293,161,316,4,2022,Apr-22
+22,Tech Layoffs and Hiring Freezes | The Great Resignation | Alex The Analyst Show | Episode 23,2022-07-19 10:30:06+00:00,21433,126,618,7,2022,Jul-22
+23,FREE Data Analyst Bootcamp!!,2023-02-07 12:30:11+00:00,225946,895,13385,2,2023,Feb-23
+24,How to Become a Data Analyst in 2023 (Completely FREE!),2023-01-31 12:30:06+00:00,242201,466,11372,1,2023,Jan-23
+25,SQL Basics Tutorial For Beginners | Installing SQL Server Management Studio and Create Tables | 1/4,2020-03-01 00:50:38+00:00,592545,917,9404,3,2020,Mar-20
+26,SQL Basics Tutorial For Beginners | Select + From Statements | 2/4,2020-03-01 17:02:28+00:00,181553,134,3260,3,2020,Mar-20
+27,SQL Basics Tutorial For Beginners | Where Statement | 3/4,2020-03-02 16:01:01+00:00,123228,82,2685,3,2020,Mar-20
+28,SQL Basics Tutorial For Beginners | Group By + Order By Statements | 4/4,2020-03-03 15:06:36+00:00,118313,167,3806,3,2020,Mar-20
+29,Intermediate SQL Tutorial | Inner/Outer Joins | Use Cases,2020-03-19 15:40:58+00:00,206171,257,4081,3,2020,Mar-20
+30,Intermediate SQL Tutorial | Unions | Union Operator,2020-03-26 16:51:37+00:00,101514,91,2380,3,2020,Mar-20
+31,Intermediate SQL Tutorial | Case Statement | Use Cases,2020-04-02 15:16:37+00:00,128613,256,3630,4,2020,Apr-20
+32,Intermediate SQL Tutorial | Having Clause,2020-04-09 16:01:02+00:00,62137,48,2027,4,2020,Apr-20
+33,Intermediate SQL Tutorial | Updating/Deleting Data,2020-04-16 12:58:52+00:00,51748,87,1475,4,2020,Apr-20
+34,Intermediate SQL Tutorial | Aliasing,2020-06-04 14:00:10+00:00,51925,59,1731,6,2020,Jun-20
+35,Intermediate SQL Tutorial | Partition By,2020-12-01 12:04:43+00:00,112025,145,3195,12,2020,Dec-20
+36,Advanced SQL Tutorial | CTE (Common Table Expression),2020-12-08 12:00:05+00:00,155481,129,2693,12,2020,Dec-20
+37,Advanced SQL Tutorial | Temp Tables,2021-02-02 12:00:13+00:00,110595,100,2729,2,2021,Feb-21
+38,Advanced SQL Tutorial | String Functions + Use Cases,2021-02-04 12:00:04+00:00,67866,89,1939,2,2021,Feb-21
+39,Advanced SQL Tutorial | Stored Procedures + Use Cases,2021-03-16 11:00:07+00:00,172546,108,3661,3,2021,Mar-21
+40,Advanced SQL Tutorial | Subqueries,2021-04-20 11:00:32+00:00,170490,152,4317,4,2021,Apr-21
+41,Data Analyst Portfolio Project | SQL Data Exploration | Project 1/4,2021-05-04 11:00:31+00:00,1106558,2501,22620,5,2021,May-21
+42,Data Analyst Portfolio Project | Data Cleaning in SQL | Project 3/4,2021-05-25 11:30:01+00:00,202329,556,4707,5,2021,May-21
+43,Pivot Tables in Excel | Excel Tutorials for Beginners,2021-12-14 11:30:07+00:00,210575,151,4590,12,2021,Dec-21
+44,Formulas in Excel | Excel Tutorials for Beginners,2021-12-21 11:30:07+00:00,92981,192,2645,12,2021,Dec-21
+45,XLOOKUP in Excel | Excel Tutorials for Beginners,2021-12-28 11:30:06+00:00,55463,71,1523,12,2021,Dec-21
+46,Conditional Formatting in Excel | Excel Tutorials for Beginners,2022-01-11 11:30:08+00:00,45897,73,1269,1,2022,Jan-22
+47,Charts in Excel | Excel Tutorials for Beginners,2022-01-25 11:30:18+00:00,34482,36,1074,1,2022,Jan-22
+48,Cleaning Data in Excel | Excel Tutorials for Beginners,2022-03-01 11:30:14+00:00,172535,174,4411,3,2022,Mar-22
+49,Full Project in Excel | Excel Tutorials for Beginners,2022-03-22 10:30:15+00:00,259578,504,6690,3,2022,Mar-22
+50,How to Install Tableau and Create First Visualization | Tableau Tutorials for Beginners,2021-09-21 11:30:01+00:00,280274,243,7502,9,2021,Sep-21
+51,How to use Calculated Fields and Bins in Tableau | Tableau Tutorials for Beginners,2021-09-28 11:30:07+00:00,78754,57,2078,9,2021,Sep-21
+52,How to Create Visualizations in Tableau | Tableau Tutorials for Beginners,2021-10-05 11:30:14+00:00,65343,112,1722,10,2021,Oct-21
+53,How to use Joins in Tableau | Tableau Tutorials for Beginners,2021-11-23 11:30:02+00:00,46220,40,1496,11,2021,Nov-21
+54,Full Beginner Project in Tableau | Tableau Tutorials for Beginners,2021-12-07 11:30:11+00:00,101839,236,2359,12,2021,Dec-21
+55,How to Install Power BI | Building First Visualization | Microsoft Power BI for Beginners,2022-05-24 10:30:06+00:00,79941,139,1975,5,2022,May-22
+56,How to use Power Query in Power BI | Microsoft Power BI for Beginners,2022-06-14 10:30:08+00:00,47835,41,1159,6,2022,Jun-22
+57,How to Create and Manage Relationships in Power BI | Microsoft Power BI for Beginners,2022-07-12 10:30:22+00:00,33457,35,850,7,2022,Jul-22
+58,How to use DAX in Power BI | Microsoft Power BI for Beginners,2022-07-26 10:30:12+00:00,28517,53,844,7,2022,Jul-22
+59,How to use Drill Down in Power BI | Microsoft Power BI for Beginners,2022-08-09 10:30:11+00:00,25305,35,654,8,2022,Aug-22
+60,How to use Conditional Formatting in Power BI | Microsoft Power BI for Beginners,2022-08-30 10:30:10+00:00,19761,31,494,8,2022,Aug-22
+61,How to use Bins and Lists in Power BI | Microsoft Power BI for Beginners,2022-09-06 10:30:02+00:00,15231,24,478,9,2022,Sep-22
+62,Popular Visualizations in Power BI | Microsoft Power BI for Beginners,2022-09-20 10:30:00+00:00,18379,31,604,9,2022,Sep-22
+63,Full Power BI Guided Project | Microsoft Power BI for Beginners,2022-09-27 10:30:19+00:00,92522,182,2068,9,2022,Sep-22
+64,Installing Jupyter Notebooks/Anaconda | Python for Beginners,2022-10-18 11:00:30+00:00,36302,56,1004,10,2022,Oct-22
+65,Variables in Python | Python for Beginners,2022-10-25 11:00:27+00:00,15200,32,522,10,2022,Oct-22
+66,Data Types in Python | Python for Beginners,2022-11-01 11:00:37+00:00,13912,39,457,11,2022,Nov-22
+67,"Comparison, Logical, and Membership Operators in Python | Python for Beginners",2022-11-08 12:00:35+00:00,7279,13,266,11,2022,Nov-22
+68,If Else Statements in Python | Python for Beginners,2022-11-15 12:00:00+00:00,6903,20,260,11,2022,Nov-22
+69,For Loops in Python | Python for Beginners,2022-11-22 12:00:48+00:00,7838,15,267,11,2022,Nov-22
+70,While Loops in Python | Python for Beginners,2022-11-29 12:00:07+00:00,6415,14,252,11,2022,Nov-22
+71,Functions in Python | Python for Beginners,2022-12-06 12:00:36+00:00,8019,18,286,12,2022,Dec-22
+72,Converting Data Types in Python | Python for Beginners,2022-12-13 12:00:06+00:00,6802,18,233,12,2022,Dec-22
+73,Building a BMI Calculator with Python | Python Projects for Beginners,2023-01-03 12:30:12+00:00,13474,35,342,1,2023,Jan-23
+74,Building an Automated File Sorter in File Explorer using Python | Python Projects for Beginners,2023-02-21 12:32:29+00:00,10701,35,304,2,2023,Feb-23
+75,Amazon Web Scraping Using Python | Data Analyst Portfolio Project,2021-08-24 11:30:01+00:00,132311,404,3549,8,2021,Aug-21
+76,Automating Crypto Website API Pull Using Python | Data Analyst Project,2022-06-07 10:30:10+00:00,23271,68,510,6,2022,Jun-22
+77,How to Create a Portfolio Website for FREE,2021-06-29 11:30:13+00:00,213679,433,6104,6,2021,Jun-21
+78,Create the Perfect Data Analyst Resume | Free Templates!,2023-03-14 11:30:10+00:00,33535,115,1400,3,2023,Mar-23
+79,Top 3 Tips on Using LinkedIn to Land a Job,2020-11-17 14:11:52+00:00,145622,177,6320,11,2020,Nov-20
+80,How To Download Your Data Analyst Bootcamp Certification (Congrats!!),2023-01-30 15:04:42+00:00,9013,43,173,1,2023,Jan-23
